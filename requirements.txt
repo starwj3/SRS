@@ -1,0 +1,6 @@
+streamlit
+pandas
+fredapi
+numpy
+sqlalchemy
+reuests
